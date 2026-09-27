@@ -1,7 +1,7 @@
 Project Structure for: new-react-app
 Generated on: 2026-01-23
 
-c:\xampp\htdocs\new-react-app
+c:\xampp\htdocs\Wada_Portal
 ├── .git
 ├── .hintrc
 ├── Backend
